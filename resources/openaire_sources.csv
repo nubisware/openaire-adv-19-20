@@ -1,0 +1,101 @@
+id,provider_name,last_collection_total,baseurl,oai_set
+opendoar____::518,MediaTUM,33998,https://mediatum.ub.tum.de/oai/oai,open_access
+opendoar____::1711,Science and Religion Dialogue Prints,299,http://scireprints.lu.lv/cgi/oai2,driver
+opendoar____::126,E-Prints Complutense,37251,http://eprints.ucm.es/cgi/oai2,driver
+opendoar____::4206,"Cherry - Repository of the Faculty of Chemistry, University of Belgrade",3858,http://cherry.chem.bg.ac.rs/oai/openaire,""
+opendoar____::880,CrossAsia-Repository,2712,http://crossasia-repository.ub.uni-heidelberg.de/cgi/oai2,driver
+opendoar____::1512,Digital Library of the University of Pardubice,1620,https://dk.upce.cz/oai/openaire,""
+opendoar____::579,University of Zagreb Medical School Repository,2741,http://medlib.mef.hr/cgi/oai2,driver
+opendoar____::2017,Repositório Científico do Instituto Politécnico de Viseu,4879,http://repositorio.ipv.pt/oaiextended/request,""
+opendoar____::1291,Repositorio Digital de la Universidad Politécnica de Cartagena,8114,http://repositorio.upct.es/oai/request,""
+opendoar____::1564,IC-online,4496,https://iconline.ipleiria.pt/oai/request,""
+opendoar____::2751,Copenhagen University Research Information System,23764,https://curis.ku.dk/ws/oai,publications:withFiles
+opendoar____::3082,Niğde Üniversitesi Açık Erişim Sistemi,5751,http://acikerisim.nigde.edu.tr/oai/request,""
+opendoar____::517,Münstersches Informations und Archivsystem für Multimediale Inhalte,8045,http://repositorium.uni-muenster.de/oai/miami,""
+opendoar____::1507,Tropmed Central Antwerp,6320,http://dspace.itg.be/oai/request,""
+openaire____::TmFSRHVTIC0gTmFjaW9uYWxuaSByZXBveml0b3JpanVtIGRpc2VydGFjaWphIHUgU3JiaWpp,NaRDuS - Nacionalni repozitorijum disertacija u Srbiji,9951,http://nardus.mpn.gov.rs/oai/openaire,""
+openaire____::issn26617323, المجلة الأفريقية للعلوم السياسية,156,https://www.maspolitiques.com/ojs/index.php/ajps/oai,""
+opendoar____::1796,Brage IMR,9475,https://imr.brage.unit.no/imr-oai/openaire,""
+openaire____::tidar,Jurnal Universitas Tidar,1053,http://jurnal.untidar.ac.id/index.php/index/oai,""
+opendoar____::13,Publikations- und Dokumentenserver der Universitätsbibliothek Marburg,10470,http://archiv.ub.uni-marburg.de/oai/provider,open_access
+doajarticles::2363-9814,o-bib. Das offene Bibliotheksjournal,566,https://www.o-bib.de/oai,""
+openaire____::issn2364091X,Journal of large-scale research facilities,138,http://jlsrf.org/index.php/lsf/oai,lsf
+opendoar____::9522,ICI Berlin Repository,138,https://www.ici-berlin.org/oa/oai/,""
+opendoar____::3051,DSpace@FSM Vakif University,579,http://acikerisim.fsm.edu.tr:8080/oai/request,driver
+opendoar____::4532,"Jakov - Repository of the University of Criminal Investigation and Police Studies, Belgrade",1113,http://jakov.kpu.edu.rs/oai/openaire,""
+opendoar____::1619,Repositório Científico da Universidade de Évora,10623,http://dspace.uevora.pt/rdpc-oaiextended/request,driver
+opendoar____::1793,BI Open,3202,https://biopen.bi.no/bi-oai/openaire,""
+driver______::3919825a-614c-4071-9f18-7cf91a95cb06,AMS Historica - Alm@DL Università di Bologna,1857,https://amshistorica.unibo.it/oai/oai2.php,""
+opendoar____::3534,Reti Medievali Open Archive,5077,http://www.rmoa.unina.it/cgi/oai2,openaire
+opendoar____::4242,Repositorio Universidad Simón Bolívar,3797,http://bonga.unisimon.edu.co/oai/request,""
+opendoar____::2638,Borys Grinchenko Kyiv University Institutional repository,22265,http://elibrary.kubg.edu.ua/cgi/oai2,driver
+opendoar____::1689,Access to Research and Communications Annals,644,http://arca.igc.gulbenkian.pt/oaiextended/request,""
+opendoar____::1765,uBibliorum,8636,http://ubibliorum.ubi.pt/oaiextended/driver,""
+opendoar____::2497,GEO-LEO e-docs,3563,https://e-docs.geo-leo.de/oai/request,""
+opendoar____::2019,Repositório do LNEG,2705,http://repositorio.lneg.pt/oaiextended/request,""
+opendoar____::3983,Archivio Istituzionale della Ricerca - Università degli Studi dell Aquila,105,http://ricerca.univaq.it/oai/openaire,""
+opendoar____::3163,Repositório Digital IPBeja,1082,https://repositorio.ipbeja.pt/oai/request,""
+opendoar____::264,Publikationer från Umeå universitet,29128,http://umu.diva-portal.org/dice/oai,driver
+opendoar____::4727,Çağ University Institutional Repository,1105,http://openaccess.cag.edu.tr/oai/request,""
+opendoar____::3657,Archivio istituzionale della ricerca - Università di Padova,3057,https://www.research.unipd.it/oai/openaire,openaire
+opendoar____::1503,UTL Repository,18574,http://www.repository.utl.pt/oaiextended/request,""
+openaire____::issn2054670X,Psychologica Belgica,306,http://www.psychologicabelgica.com/index.php/up/oai,up
+opendoar____::612,Scientific Electronic Library Online - Mexico,61717,https://oaipmh.scielo.org/mx,""
+opendoar____::2995,ABACUS. Repositorio de Producción Científica,8192,http://abacus.universidadeuropea.es/oai/request,""
+openaire____::UGh5c2ljYWwgRWR1Y2F0aW9uIG9mIFN0dWRlbnRz,Physical Education of Students,469,https://sportedu.org.ua/index.php/PES/oai,""
+opendoar____::4141,Repository of Algebra University College,400,https://repozitorij.algebra.hr/oai,""
+opendoar____::266,Publikationsserver der Universität Potsdam,44071,https://publishup.uni-potsdam.de/oai,""
+opendoar____::1096,Open Natuur Archief (Open Nature Archive),5283,https://purews.inbo.be/ws/oai,publications:withFiles
+driver______::9e5404ce-a692-4191-ab92-4caa3ad246e7,Aethiopica International Journal of Ethiopian and Eritrean Studies - Journal Server of Hamburg University Press,848,http://journals.sub.uni-hamburg.de/aethiopica/oai,""
+opendoar____::1797,Nord Open Research Archive,5479,https://nordopen.nord.no/nord-oai/openaire,""
+opendoar____::4041,NUPI Research Online,949,https://nupi.brage.unit.no/nupi-oai/openaire,""
+opendoar____::1693,Biblioteca Digital de les Illes Balears,14396,http://ibdigital.uib.cat/greenstone/cgi-bin/oaiserver.cgi,openaire
+openaire____::issn14709120,"Body, Space and Technology ",309,https://www.bstjournal.com/jms/index.php/up/oai/,""
+opendoar____::245,Organic Eprints,301,http://orgprints.org/cgi/oai2,ec_fundedresources
+opendoar____::9478,Siirt University Institutional Repository,1521,https://acikerisim.siirt.edu.tr/oai/request,""
+opendoar____::621,Scientific Electronic Library Online - Venezuela,18971,https://oaipmh.scielo.org/ve,""
+opendoar____::2708,Adnan Menderes University,3317,http://adudspace.adu.edu.tr:8080/oai/request,""
+opendoar____::9534,Sakarya Üniversitesi Kurumsal Açık Akademik Arşivi,12396,https://acikerisim.sakarya.edu.tr/oai/request,""
+openaire____::issn20505833,Architectural Histories,164,http://journal.eahn.org/index.php/up/oai,up
+openaire____::ikipbudiutomomalang,Jurnal Elektronik IKIP Budi Utomo Malang,439,http://ejurnal.budiutomomalang.ac.id/index.php/index/oai,""
+driver______::c1adfd45-c694-42c6-b1d3-95d0f3d61d08,Archives des thèses et mémoires de l’ISAE (ArTeMIS),664,http://ori-oai.isae.fr/ori-oai-repository/OAIHandler,""
+opendoar____::3157,All Ireland Public Health Repository,2416,http://repository.thehealthwell.info/oai,openaire
+opendoar____::1791,VID:Open,3057,https://vid.brage.unit.no/vid-oai/openaire,""
+opendoar____::4131,FER Repository,6359,https://repozitorij.fer.unizg.hr/oai,""
+opendoar____::478,Giessener Elektronische Bibliothek,13158,http://geb.uni-giessen.de/geb/oai/oai2.php,""
+openaire____::issn13001337,EĞİTİM VE BİLİM,2022,http://egitimvebilim.ted.org.tr/index.php/EB/oai.,EB:MAK
+opendoar____::1798,Brage HiM,1543,https://himolde.brage.unit.no/himolde-oai/openaire,""
+opendoar____::199,Kölner UniversitätsPublikationsServer,6498,https://kups.ub.uni-koeln.de/cgi/oai2,""
+re3data_____::r3d100011867,SEANOE,8488,http://oai.datacite.org/oai,INIST.IFREMER
+openaire____::VW5pdmVyc2l0YXMgMTcgQWd1c3R1cyAxOTQ1IFN1cmFiYXlh,Universitas 17 Agustus 1945 Surabaya,2351,http://jurnal.untag-sby.ac.id/index.php/index/oai,""
+opendoar____::2079,Repositori d'Objectes Digitals per a l'Ensenyament la Recerca i la Cultura,53341,http://roderic.uv.es/oai/request,""
+opendoar____::1961,Universidade de Lisboa: Repositório.UL,36983,http://repositorio.ul.pt/oaiextended/request,""
+opendoar____::3726,Archivo Climatológico y Meteorológico Institucional de AEMET,10650,https://repositorio.aemet.es/oai/openaire,""
+opendoar____::715,Konstanzer Online-Publikations-System,21443,https://kops.uni-konstanz.de/oai/openaire,openaire
+opendoar____::2403,Repositorio Institucional Digital del IEO,6143,http://www.repositorio.ieo.es/oai/openaire,""
+openaire____::0JjQt9C00LDRgtC10LvRjNGB0LrQuNC5INC00L7QvCDCq9Ch0YDQtdC00LDCuw==,Издательский дом «Среда»,2780,https://phsreda.com/oai,"conference,driver,journal,monography,openaire,year_2017,year_2018,year_2019"
+opendoar____::1002,NERC Open Research Archive,21288,http://nora.nerc.ac.uk/cgi/oai2,driver
+opendoar____::3458,UAJY repository,4114,http://e-journal.uajy.ac.id/cgi/oai2/,driver
+opendoar____::133,edoc-Server. Open-Access-Publikationsserver der Humboldt-Universität zu Berlin ,20920,https://edoc.hu-berlin.de/oai/openaire,""
+openaire____::issn14117649,Veritas : Jurnal Teologi dan Pelayanan,293,http://ojs.seabs.ac.id/index.php/Veritas/oai,""
+share_______::Preprintsorg,Preprints.org,14993,https://www.preprints.org/oaipmh,""
+opendoar____::4865,Mardin Artuklu University Institutional Repository,1822,http://acikerisim.artuklu.edu.tr/oai/request,""
+openaire____::issn22842667,Historias Fingidas,109,http://historiasfingidas.dlls.univr.it/index.php/hf/oai,driver
+opendoar____::4319,ZivaHub - Open Data UCT,519,https://api.figshare.com/v2/oai,portal_283
+openaire____::issn03949389,Il castello di Elsinore,183,http://ilcastellodielsinore.it/index.php/Elsinore/oai,""
+opendoar____::2601,PubliCatt,1277,https://publicatt.unicatt.it/oai/openaire,""
+opendoar____::4732,Refubium - Repositorium der Freien Universität Berlin,25935,https://refubium.fu-berlin.de/oai/request,""
+opendoar____::4798,Ruralis Brage,157,https://ruralis.brage.unit.no/ruralis-oai/openaire,""
+opendoar____::3192,Afyon Kocatepe Üniversitesi Açık Erişim Sistemi,6629,http://acikerisim.aku.edu.tr/oai/request,""
+opendoar____::4731,IRIS - Università degli Studi di Catania,1267,https://www.iris.unict.it/oai/openaire,""
+openaire____::issn20480792,The Comics Grid : Journal of Comics Scholarship,107,http://www.comicsgrid.com/index.php/up/oai,up
+opendoar____::2,Alexandria Research Platform,12650,https://www.alexandria.unisg.ch/cgi/oai2,driver
+opendoar____::1094,Epsilon Open Archive,9200,http://pub.epsilon.slu.se/cgi/oai2,driver
+opendoar____::3302,DSpace Sinop University Repository,1286,http://acikerisim.sinop.edu.tr:8080/oai/request,""
+opendoar____::2984,EPub Bayreuth,2812,http://epub.uni-bayreuth.de/cgi/oai2,openaire
+opendoar____::1331,Scientific Electronic Library Online - Paraguay,2336,https://oaipmh.scielo.org/py/,openaire
+opendoar____::9528,Repositorio Institucional Históricas - UNAM,391,http://ru.historicas.unam.mx/oai/request,""
+opendoar____::1789,UiS Brage,6521,https://uis.brage.unit.no/uis-oai/openaire,""
+openaire____::teknikpln,E-Journal Sekolah Tinggi Teknik PLN,587,https://stt-pln.e-journal.id/index/oai,""
+opendoar____::9514,"RhinoSec - Repository of the Faculty of Security Studies, University of Belgrade",437,http://rhinosec.fb.bg.ac.rs/oai/openaire,""
+openaire____::issn20419015,Papers from the Institute of Archaeology,499,http://www.pia-journal.co.uk/jms/oai/,up
