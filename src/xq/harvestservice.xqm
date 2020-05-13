@@ -63,32 +63,3 @@ declare
 function hs:test-grafana(){
   ()
 };
-
-declare
-  %rest:POST("{$search-query}")
-  %rest:path("harvest/metrics/grafana/search")
-  %rest:consumes("application/json")
-  %output:method("json")
-function hs:search-grafana($search-query as node()){
-  ["practitioners", "production-per-practitioner"]
-};
-
-declare
-  %rest:POST("{$query}")
-  %rest:path("harvest/metrics/grafana/query")
-  %rest:consumes("application/json")
-  %output:method("json")
-function hs:query-grafana($query as node()){
-  [
-    map{
-      "type" : "table",
-      "columns" : [
-        map{"text" : "Practitioner", "type" : "string"}
-      ],
-    "rows" : [
-        ["Mario Rossi"],
-        ["Marta Confaloni"]
-      ] 
-    }  
-  ]
-};
